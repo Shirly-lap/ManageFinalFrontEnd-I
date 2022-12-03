@@ -127,7 +127,6 @@ header{
 
 }
 
-
 .frame_option h4{
     color: #232C50;
     font-style: normal;
@@ -195,8 +194,6 @@ header{
     
 }
 
-
-
 .avatar img {
    
     width: 70px;
@@ -210,8 +207,6 @@ header{
     bottom:30px ;
    
 }
-
-
 
 .frame9{
     background-color: #8b48bf;
@@ -233,7 +228,6 @@ header{
     display: flex;
     justify-content: space-evenly ;    
 }
-
 
 .frame8{
     margin-top: 50px;
@@ -271,7 +265,6 @@ footer a{
     justify-content: center;
     align-items: center;
 }
-
 
 .optionFooter{
     display: flex;
@@ -341,8 +334,6 @@ footer a{
 }
 
 @media (max-width: 480px){
-
-
     .nav-bar {
         display: none;
         /* justify-content: space-between;*/
@@ -475,15 +466,3 @@ footer a{
 
 }
 
-
-/* animation: 1s ease-out 0s 1 slideInFromLeft;
-De Jose Gabriel Alvarez Molina a Todos (12:45 p. m.)
-@keyframes slideInFromLeft {
-  0% {
-    transform: translateX(-100%);
-  }
-  100% {
-    transform: translateX(0);
-  }
-
-}
